@@ -2,7 +2,7 @@
 
 > https://www.usdtbi.com | Updated 2026-09-24, updated on a rolling basis
 
-Chinese edition (中文版): https://github.com/kongwangxiang/awesome-usdtbi
+Chinese edition (中文版): [README.md](./README.md)
 
 **Crypto navigation, cryptocurrency resources, and exchange referral links in one tidy list. This awesome-crypto collection points you toward Binance, OKX, Bitget, Bybit, Gate.io, and MEXC referral signups, plus free tools for DeFi research, NFT markets, Web3 wallets, on-chain tools, and airdrop tracking. Whether you chart bitcoin and ethereum or compare contract fees, every exchange entry here is a direct link, so one click lands you on the official registration page with the invite code already applied. New users save on trading fees from day one. Seasoned traders keep market data, wallets, and whale trackers within reach. The list stays current and favors signal over noise. It also covers a beginner guide, a live market heatmap, and AI coin analysis hosted on the site itself.**
 
@@ -227,9 +227,9 @@ crypto navigation, cryptocurrency, exchange referral, Binance referral, OKX invi
 
 ---
 
-Prefer Simplified Chinese? The 中文版 lives at https://github.com/kongwangxiang/awesome-usdtbi
+Prefer Simplified Chinese? The 中文版 lives at [README.md](./README.md)
 
 <p align="center">
   <b>USDTBi Crypto Navigation · Exchange referral signups and Web3 tools</b><br>
-  <a href="https://www.usdtbi.com">www.usdtbi.com</a>
+  <a href="https://www.usdtbi.com">www.usdtbi.com</a> · <a href="./README.md">中文版</a>
 </p>

@@ -2,6 +2,8 @@
 
 > https://www.usdtbi.com ｜ 更新：2026-09-24，持续更新
 
+> English edition: [README_EN.md](./README_EN.md)
+
 **币圈导航、Web3导航、虚拟货币、加密货币资源大全，专为币圈新手与合约现货交易者打造的一站式区块链导航：涵盖币安Binance、欧易OKX、Bitget、Bybit、Gate.io芝麻开门、MEXC抹茶等中心化交易所返佣注册入口与邀请码，囊括行情数据、DeFi生态、加密钱包、链上工具、空投聚合、NFT数据、巨鲸追踪、新手指南、市场热力图与AI币种分析。本指南持续更新，力求最新最全，帮你省手续费、避坑、防冻卡。关键词：币圈导航, 虚拟货币, 加密货币, 交易所返佣, 币安返佣, 欧易返佣, Web3导航, 区块链工具, 比特币, 以太坊。**
 
 [![GitHub stars](https://img.shields.io/github/stars?style=social)](#关于我们)
@@ -395,5 +397,5 @@ Signature features include a market heatmap, AI coin analysis, and a rankings bo
 
 <p align="center">
   <b>币圈导航 Usdtbi · 交易所返佣注册与工具大全</b><br>
-  <a href="https://www.usdtbi.com">www.usdtbi.com</a>
+  <a href="https://www.usdtbi.com">www.usdtbi.com</a> · <a href="./README_EN.md">English edition</a>
 </p>
